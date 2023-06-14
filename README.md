@@ -1,2 +1,2 @@
-# -English-Dictionary
+# English-Dictionary
 using Javascript, Html, Css
